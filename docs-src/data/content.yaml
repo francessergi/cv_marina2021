@@ -1,0 +1,261 @@
+BasicInfo:
+    FirstName: Marina
+    LastName: Francés
+    Photo: img/avatar.jpg
+    Contacts:
+        - Icon: fas fa-phone
+          Info: +34 638 31 81 67
+        - Icon: fas fa-envelope
+          Info: mfrancestudio@gmail.com
+        - Icon: fas fa-globe
+          Info: instagram.com/marhinafrances
+        - Icon: fas fa-map-marker-alt
+          Info: Palma de Mallorca, ES
+
+Profile: Soy Marina Francés, actriz de teatro, cine, locución, doblaje y documental. Después de graduarme en Arte Dramático en la ESADIB (Escuela Superior de Arte Dramático de las Islas Baleares), me especialicé en locución, doblaje e interpretación delante de la cámara para cine y televisión en ICM (Instituto del cine Madrid).  Actualmente escribo y dirijo mis obras de teatro y hago cuñas publicitarias y spots para Fibwi.  Mi objetivo es crecer profesionalmente y lograr la mayor estabilidad posible.
+
+Experience:
+    - Employer: FiBWI
+      Place: Mallorca, ES
+      Positions:
+          - Title: Locutora
+            Date: 2022
+            Details:
+                - Cuñas de radio y spots
+                - Descanshop
+                - Palmer Alma Mediterránea
+                - Autorreciclaje Pérez
+                - Cabaña Bonanza
+                - Discoteca “Sala 19”
+                - Restaurante “Can Matevet”
+                - Restaurante “Izumo”
+                - Hotel Hospes Maricel
+                - Spa y Minimal Desing Hall
+            Badges:
+                [
+                    "Homestudio",
+                    "Fluidez",
+                    "Registros",
+                    "Cuñas",
+                    "Spots",
+                    "Publicidad",
+                ]
+    - Employer: EDBA (Escuela de Doblaje Baleares)
+      Place: Mallorca, ES
+      Positions:
+          - Title: Profesora de doblaje
+            Date: Jul 2021 - Ene 2022
+            Details:
+                - Ejercicios de improvisación
+                - Distintos registros
+                - Aprender gestos y risas
+                - Interpretación vocal
+            Badges:
+                [
+                    "Respiración",
+                    "Relajación",
+                    "Técnica vocal",
+                    "Proyección",
+                    "Vocalización",
+                ]
+    - Employer: Petroest (Gasolineras)
+      Place: Mallorca, ES
+      Positions:
+          - Title: Locutora para radio
+            Date: Jul 2021
+            Details:
+                - Voz dinámica, potente
+                - Cuña de 20 segundos
+                - Vocalización marcada y veloz
+                - Retos - Control y estabilidad
+                - Idioma Castellano
+            Badges:
+                [
+                    "Cuña",
+                    "Locución",
+                    "Alta Velocidad",
+                    "Potente",
+                    "Dinámica",
+                    "Alta Calidad",
+                ]
+    - Employer: Petroest (Gasolineras)
+      Place: Mallorca, ES
+      Positions:
+          - Title: Voz para Spot publicitario
+            Date: Jul 2021
+            Details:
+                - Voz tranquila y suave
+                - Edición video, audio y doblaje
+                - Idiomas - Catalán y Castellano
+                - Anuncio de televisión de 20 segundos
+            Badges: ["Spot", "Locución", "Tranquila", "Alta Calidad"]
+    - Employer: Bonaire Alicante
+      Place: Madrid, ES
+      Positions:
+          - Title: Locutora
+            Date: Feb 2020
+            Details:
+                - Tema 8-M campaña día de la mujer
+                - Voz para Spot Publicitario
+                - Voz de mujer potente y directa
+                - Control del ritmo y timing
+                - Grabación de audio por cuenta propia
+            Badges:
+                [
+                    "Locución",
+                    "Remoto",
+                    "Rapidez",
+                    "Potente",
+                    "Directa",
+                    "Alta Calidad",
+                ]
+    - Employer: Cogam (Colectivo LGTB+)
+      Place: Madrid, ES
+      Positions:
+          - Title: Locutora
+            Date: Feb 2020
+            Details:
+                - Voz para Spot Publicitario
+                - Voz suave, tranquila y brillante
+                - Grabación de audio por cuenta propia
+            Badges:
+                [
+                    "Locución",
+                    "Remoto",
+                    "Suave",
+                    "Tranquila",
+                    "Brillante",
+                    "Alta Calidad",
+                ]
+    - Employer: Deluxe Spain
+      Place: Madrid, ES
+      Positions:
+          - Title: Doblaje
+            Date: Feb 2020
+            Details:
+                - Voz para personajes de fondo
+                - Voz de mujer, aguda y suave
+                - Grabación en estudio de la empresa
+                - Serie "Elegidos para la glória"
+            Badges:
+                [
+                    "Locución",
+                    "Suave",
+                    "Aguda",
+                    "Sonrisa",
+                    "Alta Calidad",
+                    "Disney+",
+                ]
+    - Employer: Las primas de Bárbara co.
+      Place: Mallorca, ES
+      Positions:
+          - Title: Actriz
+            Date: Dic 2021 - Feb 2022
+            Details:
+                - Espectáculo
+                - Restaurante
+                - Teatro cómico
+                - Personaje de "maniática"
+            Badges: ["Pequeña cía.", "Humor", "Activa"]
+    - Employer: Yo soy yo co.
+      Place: Madrid, ES
+      Positions:
+          - Title: Actriz | Directora | Escritora
+            Date: Feb 2021 - Jul 2021
+            Details:
+                - Microteatro “A veces soy yo”
+                - Microteatro “¿Dulces o Saladas?”
+            Badges: ["Comédia", "Clown", "Teseo Teatro", "La escalera de Jacob"]
+    - Employer: Adam Voice
+      Place: Madrid, ES
+      Positions:
+          - Title: Actriz secundaria
+            Date: Nov 2019 - Feb 2020
+            Details:
+                - Obra "Danton 1794"
+                - Papel de mujer del 1794
+                - Interpretando la Revolución Francesa
+                - Teatro hiperrealista
+            Badges: ["Revolución Francesa", "Compañía grande", "Paco Raval"]
+    - Employer: Iberia Express
+      Place: Madrid, ES
+      Positions:
+          - Title: Actriz
+            Date: Dic 2018
+            Details:
+                - Interpretación del personaje Rudolph
+                - Canto de la canción 'All I want for Christmas'
+                - Spot publicitario por las calles de Madrid
+            Badges:
+                ["Interpretación", "Personaje", "Avión", "Navidad", "Ibéria"]
+
+Education:
+    - Course: Instituto del Cine de Madrid
+      Place: ICM (Madrid)
+      Date: Oct 2018 - Jul 2021
+      Details: Especializada en locución, doblaje, videojuegos y documental
+    - Course: Instituto del cine de Madrid
+      Place: ICM (Madrid)
+      Date: Oct 2018- Jul 2020
+      Details: Especializada en Interpretación delante de la cámara
+    - Course: ________________________
+    - Course: Stage Internazionale di commedia dell’arte
+      Place: Reggio Emilia (Itália)
+      Date: Jul 2018 - Aug 2018
+      Details: Especializada en interpretación cómica
+    - Course: ________________________
+    - Course: Escuela superior de arte dramático
+      Place: ESADIB (Mallorca)
+      Date: Sept 2014- Jun 2018
+      Details: Especializada en interpretación textual
+
+Skills:
+    - Family: Doblaje
+      Items:
+          - Locución
+          - Documental
+          - Spot
+          - Videojuegos
+          - Audiolibros
+    - Family: Teatro Físico
+      Items:
+          - Danza contemporanea
+          - Esgrima
+          - Clown
+          - Combate escénico
+          - Expresión Corporal (Dicroux)
+          - Mascaras comedia dell'arte
+    - Family: Teatro Textual
+      Items:
+          - Canto
+          - Técnica de la voz
+          - Dicción
+    - Family: Historia
+      Items:
+          - Literatura dramática
+          - Estética
+          - Maquillaje
+          - Didáctica
+
+Languages:
+    - Name: Español
+      Level: Nativo
+    - Name: Català
+      Level: Nativo
+    - Name: English
+      Level: B2
+
+Diplomas:
+    - Título grado superior de Arte Dramático.
+    - Stage internazionale di Commedia dell'arte.
+    - Interpretacion delante de la camara para cine y televisión.
+    - Locución, doblaje y documental.
+    - Especialización locución, doblaje y documental.
+
+Interests:
+    - Mujer
+    - 1995
+    - 1.65 mts
+    - Soprano
+    - 20 - 30 años
+    - Pelo castaño
